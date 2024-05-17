@@ -26,6 +26,4 @@ FNxgtlUizRJDnnOShjMENA==+TwMsV259.4
 
 cBNXUwmPqj6rBECf8rqbWQ==+TwMsV259.4
 
-SmilelinTwMsV261.2_V1
-
 SmilelinTwMsV261.2_V2
