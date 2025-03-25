@@ -26,6 +26,6 @@ Sf_SmilelinTwMsV268.2_V1
 Sf_SmilelinTwMsV268.3_V1
 Sf_SmilelinTwMsV268.4_V2
 Sf_SmilelinTwMsV268.5_V4
-Sf_SmilelinTwMsV268.6_V3
+Sf_SmilelinTwMsV268.6_V4
 
 V267.5_V1
