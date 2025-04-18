@@ -33,4 +33,4 @@ Sf_SmilelinTwMsV268.6_V5
 Sf_SmilelinTwMsV269.3_V1
 Sf_SmilelinTwMsV269.4_V6
 Sf_SmilelinTwMsV269.5_V2
-Sf_SmilelinTwMsV269.6_V1
+Sf_SmilelinTwMsV269.6_V2
