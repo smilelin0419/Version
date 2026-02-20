@@ -20,9 +20,6 @@ kLXyhP0DPkXDMQDEKinJf55mSGGqBHi5+TwMsV270.1
 
 
 
-
-SmilelinTwMsV276.9_V1
-
 SmilelinTwMsV276.9_V2
 
 //-------
