@@ -80,6 +80,6 @@ Sf_SmilelinTwMsV276.9_V1
 Sf_SmilelinTwMsV277.2_V1
 Sf_SmilelinTwMsV277.3_V1
 Sf_SmilelinTwMsV277.4_V1
-Sf_SmilelinTwMsV277.5_V1
+
 Sf_SmilelinTwMsV277.5_V2
 Sf_SmilelinTwMsV277.6_V1
