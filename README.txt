@@ -19,6 +19,7 @@ kLXyhP0DPkXDMQDEKinJf55mSGGqBHi5+TwMsV270.1
 
 
 SmilelinTwMsV279.6_V1
+SmilelinTwMsV279.6_V2
 
 //-------
 Sf_SmilelinTwMsV265.5_V3
@@ -89,3 +90,4 @@ Sf_SmilelinTwMsV279.2_V1
 Sf_SmilelinTwMsV279.3_V1
 Sf_SmilelinTwMsV279.4_V1
 Sf_SmilelinTwMsV279.6_V1
+Sf_SmilelinTwMsV279.6_V2
